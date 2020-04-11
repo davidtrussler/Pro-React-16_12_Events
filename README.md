@@ -11,3 +11,4 @@ Based on Chapter 12 of Pro-React-16
 
 - Sets up a new app
 - Adds bootstrap
+- Creates new App component to display basic initial view
