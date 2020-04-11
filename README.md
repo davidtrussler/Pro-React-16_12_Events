@@ -20,3 +20,5 @@ See React documentation: [SyntheticEvent](https://reactjs.org/docs/events.html)
 - Adds onClick event to button
 - Invokes method to handle event
 - Differentiates between different Event Types
+- Uses persist method to avoid Event Reuse Pitfall
+  - SyntheticEvents reset properties to null after event is handled
