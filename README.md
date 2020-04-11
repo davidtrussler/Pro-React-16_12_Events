@@ -18,3 +18,5 @@ See React documentation: [SyntheticEvent](https://reactjs.org/docs/events.html)
 ### 2. [Understanding Events](https://github.com/davidtrussler/Pro-React-16_12_Events/tree/Understanding-Events)
 
 - Adds onClick event to button
+- Invokes method to handle event
+- Differentiates between different Event Types
