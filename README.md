@@ -23,3 +23,4 @@ See React documentation: [SyntheticEvent](https://reactjs.org/docs/events.html)
 - Uses persist method to avoid Event Reuse Pitfall
   - SyntheticEvents reset properties to null after event is handled
 - Uses custom argument to invoke event handler
+- Prevents Default Behaviour
