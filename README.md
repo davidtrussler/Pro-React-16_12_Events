@@ -2,6 +2,8 @@
 
 Based on Chapter 12 of Pro-React-16
 
+See React documentation: [SyntheticEvent](https://reactjs.org/docs/events.html)
+
 ## Set up 
 
 - Run `npm install` to install dependencies
@@ -12,3 +14,7 @@ Based on Chapter 12 of Pro-React-16
 - Sets up a new app
 - Adds bootstrap
 - Creates new App component to display basic initial view
+
+### 2. [Understanding Events](https://github.com/davidtrussler/Pro-React-16_12_Events/tree/Understanding-Events)
+
+- Adds onClick event to button
