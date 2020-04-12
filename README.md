@@ -24,3 +24,7 @@ See React documentation: [SyntheticEvent](https://reactjs.org/docs/events.html)
   - SyntheticEvents reset properties to null after event is handled
 - Uses custom argument to invoke event handler
 - Prevents Default Behaviour
+
+### 3. [Managing Event Propagation](https://github.com/davidtrussler/Pro-React-16_12_Events/tree/Managing-event-propagation)
+
+- Understanding Target and Bubble Phases
