@@ -9,7 +9,12 @@ export class ThemeButton extends Component {
 		); 
 
 		if (capturePhase) {
-			console.log('Skipped function prop: capture phase'); 
+			if (this.props.theme === 'danger') {
+				e.stopPropagation(); 
+				console.log('Stopped event'); 
+			} else {
+				console.log('Skipped function prop: capture phase'); 
+			}
 		} else if (e.bubbles && e.currentTarget !== e.target) {
 			console.log('Skipped function prop: bubble phase'); 
 		} else {

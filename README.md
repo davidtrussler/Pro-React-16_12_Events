@@ -30,3 +30,4 @@ See React documentation: [SyntheticEvent](https://reactjs.org/docs/events.html)
 - Understanding Target and Bubble Phases
 - Understanding the Capture Phase
 - Determining the Event Phase
+- Stopping Propagation
